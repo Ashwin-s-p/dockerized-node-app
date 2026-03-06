@@ -21,10 +21,11 @@ https://hub.docker.com/r/ashwinpoojary/docker-node-app
 ## Screenshots
 
 ### Docker Images
-![Docker Images](screenshots/docker-images.png)
+[Docker Images](screenshots/docker-images.png)
 
 ### Running Containers
-![Running Containers](screenshots/docker-container.png)
+[Running Containers](screenshots/docker-container.png)
 
 ### Application Running
-![Application Running](screenshots/app-running.png)
+[Application Running](screenshots/app-running.png)
+
